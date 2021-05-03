@@ -10,5 +10,4 @@ public class FileDownloadDemoApplication
 	public static void main(String[] args) {
 		SpringApplication.run(FileDownloadDemoApplication.class, args);
 	}
-
 }
