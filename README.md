@@ -7,7 +7,7 @@ Spring Boot project that shows PDF, Word, Excel, Image etc. documents download t
 
 ## View and Download PDF documents
 1. Go to http://localhost:8081/api/v1/download/pdf/input_stream_resource/view to view and download the PDF file using `InputStreamResource`
-2. Go to http://localhost:8081/api/v1/download/pdf/response_body/viewto view the PDF file using `ResponseBody`
+2. Go to http://localhost:8081/api/v1/download/pdf/response_body/view to view the PDF file using `ResponseBody`
 3. Go to http://localhost:8081/api/v1/download/pdf/response_body/download to download the PDF file using `ResponseBody`
 
 ## View and Download Word and Excel documents
